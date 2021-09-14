@@ -1,7 +1,7 @@
 local helpers = require "spec.helpers"
 
 
-local PLUGIN_NAME = "myplugin"
+local PLUGIN_NAME = "add-header-to-request"
 
 
 for _, strategy in helpers.all_strategies() do
